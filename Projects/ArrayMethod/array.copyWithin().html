@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Js Array.copyWithin() Method</title>
+    <style>
+        .center{
+            display: grid;
+            place-content: center;
+        }
+        .center_div{
+            display: grid;
+            place-content: center;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+    <h1>Js Array.at() Method</h1>
+
+            <div class="center_div">
+                <p>let Data = [<span id="data"></span>]</p>
+                <p>let result = Data.copyWithin(1,2)</p>
+                <p>result = [<span id="result"></span>]</p>        
+            </div>
+    </div>
+
+
+</body>
+<script>
+    let data = [1,2,3,4,5];
+    document.getElementById("data").innerHTML = data;
+    let result = data.copyWithin(1,2);
+    document.getElementById("result").innerHTML = result;
+</script>
+</html>
