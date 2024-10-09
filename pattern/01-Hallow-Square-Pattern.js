@@ -3,19 +3,19 @@ let string = '';
 
 for(let i=1; i<=number; i++){
   for(let j=1; j<=number; j++){
-    if(i===1 || i===number){
+  
+   if(i===1 || i===number){
       string += '*';
-    }else{
+   }else{
       if(j===1 || j===number){
         string += '*'
       }else{
         string += ' '
       }
     }
+   
   }
-  string += '\n';
+   string += '\n';
 }
-console.log('\n');
-console.log('\n');
-console.log(string);
 
+console.log(string)
