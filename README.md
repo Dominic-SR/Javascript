@@ -7,4 +7,5 @@
 <ul>
 <li>Hallow Square Pattern</li>
 <li>Number Triangular</li>
+<li>Number Increased Pyramid</li>
 </ul>
