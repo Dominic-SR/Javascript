@@ -6,10 +6,16 @@ for(let i=1; i<=number; i++){
  
   if(i===1 || i===number){
       string += "*";
-   }else{
+   }
+
+   if(j===1 || j===number){
+    string += "*";
+ }
+  else{
       if(j===1 || j===number){
         string += "*";
-      }else{
+      }
+      else{
         string += ' '
       }
     }
