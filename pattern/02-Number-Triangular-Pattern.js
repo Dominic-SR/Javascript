@@ -6,7 +6,8 @@ for (let i = 1; i <= n; i++) {
         if (i + j >= n + 1 && (i >= j - n + 1)) {
             arr.push(count);
             count++;
-        } else {
+        } 
+        else {
             arr.push(' ');
         }
     }
