@@ -1,4 +1,1 @@
-let i ='';
-let j = '';
-
-console.log();
+console.log("number changing pyramid");
