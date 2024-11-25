@@ -21,6 +21,6 @@ const countCharacterFunction = (str) =>{
     return counts
 }
 
-const inputString = "hello world";
+const inputString = "google";
 const charectersCount = countCharacterFunction(inputString);
 console.log("--->",charectersCount);
