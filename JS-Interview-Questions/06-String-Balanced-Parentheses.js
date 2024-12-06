@@ -1,5 +1,5 @@
 const balanced = (str) =>{
- for(let char of str){
+ foreach(const char of str){
   console.log("---")
  }
 }
