@@ -1,0 +1,4 @@
+const firstNonRepeatingCharacters=()=>{
+    console.log("---")
+
+}
