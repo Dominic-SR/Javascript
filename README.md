@@ -1,6 +1,7 @@
 <h1>Javascript</h1>
 <ul>
-<li>Reverse String</li>
+<li>01.Reverse String</li>
+<li>02.Remove Duplicate</li>
 </ul>
 
 <h3>Pattern</h3>
