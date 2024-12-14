@@ -1,4 +1,5 @@
 const firstNonRepeatingCharacters=()=>{
-    console.log("---")
-
+    for(let){
+	console.log("")
+	}
 }
