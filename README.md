@@ -1,7 +1,8 @@
 <h1>Javascript</h1>
 <ul>
 <li>01.Reverse String</li>
-<li>02.Remove Duplicate</li>
+<li>02.Check Palindrome</li>
+<li>03.Count Characters</li>
 </ul>
 
 <h3>Pattern</h3>
