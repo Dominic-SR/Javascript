@@ -3,6 +3,8 @@
 <li>01.Reverse String</li>
 <li>02.Check Palindrome</li>
 <li>03.Count Characters</li>
+<li>04.Find Longest Word</li>
+<li>05.Revove Duplicates in Array</li>
 </ul>
 
 <h3>Pattern</h3>
