@@ -17,5 +17,12 @@ for(const char of str2){
 	frequencyMap2[char] = (frequencyMap2[char] || 0) + 1;
 }
 
+for(const char in frequencyMap1){
+	if(frequencyMap[char] !== frequencyMap2[char]){
+	return false
+	}
 }
-let result = areAnagrams();
+return true;
+}
+let result = areAnagrams('listern','silent');
+console.log(result)
