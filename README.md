@@ -1,4 +1,7 @@
 <h1>Javascript</h1>
+
+<h2>Technical Questions</h2>
+
 <ul>
 <li>01.Reverse String</li>
 <li>02.Check Palindrome</li>
@@ -8,7 +11,7 @@
 <li>06.String Balanced</li>
 </ul>
 
-<h3>Pattern</h3>
+<h2>Pattern</h2>
 
 <ul>
 <li>Hallow Square Pattern</li>
