@@ -8,7 +8,6 @@
 <li>03.Count Characters</li>
 <li>04.Find Longest Word</li>
 <li>05.Revove Duplicates in Array</li>
-<li>06.String Balanced</li>
 </ul>
 
 <h2>Pattern</h2>
