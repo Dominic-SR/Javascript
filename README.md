@@ -19,3 +19,8 @@
 <li>Number Increased Pyramid</li>
 <li>Number Increased Reverse Pyramid</li>
 </ul>
+
+<h2>JS - DSA</h2>
+<ul>
+<li>Array Accessing</li>
+</ul>
