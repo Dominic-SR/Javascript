@@ -10,3 +10,11 @@ console.log(fruits); // [ 'apple', 'banana', 'blueberry' ]
 
 // Find the total number of elements
 console.log(fruits.length); // 3
+
+// ###Dynamic arrays in javascript
+// Adding element
+
+fruits.push("orange") // to the end push the velue
+console.log(fruits);
+fruits.unshift("strawberry") // to the beginning push the value 
+console.log(fruits);
