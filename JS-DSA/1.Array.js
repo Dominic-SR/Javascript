@@ -12,9 +12,15 @@ console.log(fruits); // [ 'apple', 'banana', 'blueberry' ]
 console.log(fruits.length); // 3
 
 // ###Dynamic arrays in javascript
-// Adding element
 
-fruits.push("orange") // to the end push the velue
+// Adding element
+fruits.push("orange"); // to the end push the velue
 console.log(fruits);
-fruits.unshift("strawberry") // to the beginning push the value 
+fruits.unshift("strawberry"); // to the beginning push the value 
+console.log(fruits);
+
+// Removing element
+fruits.pop(); // Remove the element from the end
+console.log(fruits);
+fruits.shift(); // Remove the element from the start
 console.log(fruits);
