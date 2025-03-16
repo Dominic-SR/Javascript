@@ -12,6 +12,7 @@ const countCharacterFunction = (str) =>{
 
     // for loop method
     for(let char = 0; str.length -1 >= char; char++ ){
+        console.log("ASAA",str[char]);
         if(counts[str[char]]){
             counts[str[char]]++;
         }else{
