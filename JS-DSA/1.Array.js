@@ -24,3 +24,20 @@ fruits.pop(); // Remove the element from the end
 console.log(fruits);
 fruits.shift(); // Remove the element from the start
 console.log(fruits);
+
+// ###Common algorithms
+
+// Traversing
+for (let i = 0; i < fruits.length; i++) {
+    console.log(fruits[i]);
+}
+
+// Inserting
+// to Add an item at specific position
+fruits.splice(2,0,"Kiwi") // splice(position,delete,insert) 
+console.log(fruits);
+
+// Deleting
+// to delete an item specific position
+fruits.splice(1,1) // splice(position,delete) 
+console.log(fruits);
