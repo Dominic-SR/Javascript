@@ -23,4 +23,5 @@
 <h2>JS - DSA</h2>
 <ul>
 <li>Array Accessing</li>
+<li>Linked List</li>
 </ul>
