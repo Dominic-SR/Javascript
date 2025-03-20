@@ -25,4 +25,4 @@ for(const char in frequencyMap1){
 return true;
 }
 let result = areAnagrams('listern','silent');
-console.log(result)
+console.log("--->",sresult)
