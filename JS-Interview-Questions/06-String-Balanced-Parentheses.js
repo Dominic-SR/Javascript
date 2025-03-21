@@ -12,3 +12,10 @@ const balanced = (str) =>{
 	console.log("")
  }
 }
+<<<<<<< HEAD
+=======
+return stack.length === 0;
+}
+
+console.log(balanced("()))"));
+>>>>>>> 695c7c0 (test paranthises)
