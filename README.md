@@ -10,7 +10,7 @@
 <li>05.Remove Duplicates in Array</li>
 <li>06.Check if a string contains balanced parentheses</li>
 <li>07.Non Repeating Characters</li>
-  <li>08.</li>
+  <li>08.Anagram</li>
 </ul>
 
 <h2>Pattern</h2>
