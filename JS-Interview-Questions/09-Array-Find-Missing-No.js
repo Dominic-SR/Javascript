@@ -7,5 +7,6 @@ const findMissingNoInArray=(arr)=>{
  const totalSum = (n * (n+1)/2)
 
  //Sum of num in array
+ const arrNum = arr.reduce((acc,num)=> acc + num,0)
 }
 console.log("hello")
