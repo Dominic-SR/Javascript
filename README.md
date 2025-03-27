@@ -11,7 +11,8 @@
 <li>06.Check if a string contains balanced parentheses</li>
 <li>07.Non Repeating Characters</li>
 <li>08.Anagram</li>
-<li>09.Array find missing no</li>
+<li>09.Array find missing No</li>
+<li>10.Flatern nested array</li>
 </ul>
 
 <h2>Pattern</h2>
