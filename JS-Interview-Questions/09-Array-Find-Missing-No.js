@@ -8,5 +8,9 @@ const findMissingNoInArray=(arr)=>{
 
  //Sum of num in array
  const arrNum = arr.reduce((acc,num)=> acc + num,0)
+
+ return totalSum - arrNum //Missing Number
 }
-console.log("hello")
+
+
+console.log("---->",findMissingNoInArray([1,2,4]))
