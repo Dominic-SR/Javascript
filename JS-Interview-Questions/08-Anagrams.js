@@ -1,11 +1,14 @@
 const areAnagrams = (str1,str2) => {
+// remove spaces and convert lower case
  str1 = str1.replace(/\s+/g,'').toLowerCase();
  str2 = str2.replace(/\s+/g,'').toLowerCase();
 
+ // check if the length are different
  if(str1.length !== str2.length){
 	return false;
  }
 
+ // Create character frequency maps
  const frequencyMap1 = {};
  const frequencyMap2 = {};
 
