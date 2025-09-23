@@ -1,8 +1,3 @@
-// ===========================================
-// 50+ JavaScript Pattern Programs in One File
-// Run in Node.js: node patterns.js
-// ===========================================
-
 // Utility function
 function print(title, callback) {
   console.log("\n================ " + title + " ================");
