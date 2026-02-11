@@ -1,7 +1,5 @@
 <h1>Javascript</h1>
-
 <h2>Technical Questions</h2>
-
 <ul>
 <li>01.Reverse String</li>
 <li>02.Check Palindrome</li>
@@ -16,16 +14,13 @@
 <li>11.Int to Roman</li>
 <li>12.Roman to Int</li>
 </ul>
-
 <h2>Pattern</h2>
-
 <ul>
 <li>Hallow Square Pattern</li>
 <li>Number Triangular</li>
 <li>Number Increased Pyramid</li>
 <li>Number Increased Reverse Pyramid</li>
 </ul>
-
 <h2>JS - DSA</h2>
 <ul>
 <li>Array Accessing</li>
